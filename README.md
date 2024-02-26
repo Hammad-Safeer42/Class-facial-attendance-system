@@ -2,6 +2,8 @@
 
 This repository contains a Python program for managing class attendance using facial recognition technology. The system allows teachers to mark attendance by capturing students' faces through a camera, verifying their identity, and recording their attendance in a CSV file. Additionally, it provides functionalities for managing students and teachers.
 
+`Download the Model from here: " https://drive.google.com/drive/folders/1lXWHgieBRirdvaJphKs0zMuPi1Hr2tOB?usp=sharing" `
+
 ## Features
 
 - **Mark Attendance:** Teachers can mark attendance by capturing students' faces through a camera.
@@ -51,30 +53,18 @@ This repository contains a Python program for managing class attendance using fa
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-*Caption for screenshot 1.*
+![Test 1](/screenshots/screenshot1.png)
 
-![Screenshot 2](/screenshots/screenshot2.png)
-*Caption for screenshot 2.*
 
-## Contributing
+![Test 2](/Class Attendance System/Hammad_Safeer.png)
 
-Contributions are welcome! Please open an issue or submit a pull request with your suggestions or enhancements.
 
 ## License
-
 This project is licensed under the [MIT License](/LICENSE).
 
-## Acknowledgments
-
-- Special thanks to [OpenCV](https://opencv.org/) for their powerful computer vision library.
-- Thanks to [PySimpleGUI](https://pysimplegui.readthedocs.io/) for providing an easy-to-use GUI framework for Python.
-- Credits to [yagmail](https://pypi.org/project/yagmail/) for simplifying email sending with Python.
 
 ## Authors
 
-- [Your Name](https://github.com/your_username)
+- [Hammad Safeer](https://github.com/Hammad-Safeer42)
+- [Hammad Siddiqui](https://github.com/HammadSiddiqui30)
 
-## Contact
-
-For inquiries, please contact [your_email@example.com](mailto:your_email@example.com).
