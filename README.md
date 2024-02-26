@@ -38,10 +38,10 @@ This repository contains a Python program for managing class attendance using fa
 
 ## Screenshots
 
-![Test 1](Class Attendance System/Hammad_Safeer.png)
+![Test 1]([Class Attendance System/Hammad_Safeer.png](https://github.com/Hammad-Safeer42/Class-facial-attendance-system/blob/main/Class%20Attendance%20System/Hammad_Safeer.png))
 
 
-![Test 2](Class Attendance System/Hammad_Safeer.png)
+![Test 2]([Class Attendance System/Hammad_Safeer.png](https://github.com/Hammad-Safeer42/Class-facial-attendance-system/blob/main/Class%20Attendance%20System/Hammad_Siddiqui.png))
 
 
 ## License
