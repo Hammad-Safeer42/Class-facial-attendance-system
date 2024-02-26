@@ -26,7 +26,7 @@ This repository contains a Python program for managing class attendance using fa
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your_username/class-attendance-system.git
+    git clone https://github.com/Hammad-Safeer42/Class-facial-attendance-system.git
     ```
 
 2. Install the required packages:
@@ -35,28 +35,15 @@ This repository contains a Python program for managing class attendance using fa
     pip install opencv-python-headless PySimpleGUI pandas numpy yagmail
     ```
 
-## Usage
-
-1. Navigate to the project directory:
-
-    ```
-    cd class-attendance-system
-    ```
-
-2. Run the main program:
-
-    ```
-    python main.py
-    ```
-
-3. Follow the on-screen instructions to perform various operations such as marking attendance, managing students, managing teachers, etc.
 
 ## Screenshots
 
-![Test 1](/screenshots/screenshot1.png)
+![Test 1](Class-facial-attendance-system/Class Attendance System
+/Hammad_Siddiqui.png)
 
 
-![Test 2](/Class Attendance System/Hammad_Safeer.png)
+![Test 2](Class-facial-attendance-system/Class Attendance System
+/Hammad_Safeer.png)
 
 
 ## License
