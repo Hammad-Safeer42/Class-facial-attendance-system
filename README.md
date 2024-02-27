@@ -23,7 +23,7 @@ This repository contains a Python program for managing class attendance using fa
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the following repository:
 
     ```
     git clone https://github.com/Hammad-Safeer42/Class-facial-attendance-system.git
